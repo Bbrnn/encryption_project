@@ -1,4 +1,4 @@
-This project is about encryption and decryption of strings
+This project is about encryption and decryption of strings.<br>💥
 I have imported some libraries such as cryprography ,fernet and rsa that have enabled the decyption and encryption process of the message
 Encryption is the process of encoding the data. i.e converting plain text into ciphertext. This conversion is done with a key called an encryption key.
 Decryption is the process of decoding the encoded data. Converting the ciphertext into plain text. This process requires a key that we used for encryption.
